@@ -1,0 +1,60 @@
+
+body{
+    background-color: #6b00b3;
+    background-image: url("https://www.transparenttextures.com/patterns/old-map.png");
+    text-align: center;
+}
+
+.w {
+    background-image: url("images/tom1.png");
+}
+
+.drum {
+  height: 150px;
+  width: 150px;
+  color: rgb(248, 0, 248);
+  text-shadow: 3px 3px 5px #6b00b3;
+  font-size: 100px;
+  font-family: "Caprasimo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.k{
+    background-image: url("./images/crash.png") ;
+}
+.l{
+  background-image: url("./images/kick.png") ;  
+}
+.j{
+  background-image: url("./images/snare.png") ;  
+}
+.a{
+    background-image: url("./images/tom2.png");
+}
+.s{
+    background-image: url("./images/tom3.png");
+}
+.d{
+    background-image: url("./images/tom4.png");
+}
+button{
+    border: 10px, solid, rgb(212, 5, 212) ;
+    border-radius: 25%;
+    background-color: #6b00b3;
+}
+.caprasimo-regular {
+  color: white;
+   text-shadow: 3px 3px 5px rgb(248, 0, 248);
+  font-size: 100px;
+  font-family: "Caprasimo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+p{
+  color: white;
+  text-shadow: 3px 3px 5px rgb(248, 0, 248) ;
+  font-size: 40px;
+  font-family: "Caprasimo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
